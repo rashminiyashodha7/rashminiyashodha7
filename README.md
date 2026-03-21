@@ -17,7 +17,7 @@
 
 ## 🚀 About Me 
 
-I'm a final-year Information Systems undergraduate passionate about **Quality Assurance, Business Analysis, and Data Analytics**.
+I'm a Microsoft Certified final-year Information Systems undergraduate passionate about **Quality Assurance, Business Analysis, and Data Analytics**.
 
 I enjoy analyzing business problems, designing structured solutions, and ensuring software quality through testing and automation. My experience spans across healthcare, retail, e-commerce, and service systems.
 
@@ -45,7 +45,8 @@ Beyond academics, I actively contribute to tech communities like **CSSL GenZ Cha
 - ISTQB Foundation Level (Software Testing Standards)  
 - Advanced QA Automation & CI/CD Practices  
 - Agentic AI & NLP Applications  
-
+- Power BI
+- Playwright for Python
 ---
 
 ## 🛠️ Technical Skillset
@@ -87,11 +88,15 @@ Beyond academics, I actively contribute to tech communities like **CSSL GenZ Cha
 
 ## 🏆 Achievements & Highlights
 
-- 📄 IEEE Research Publication (2026 – Accepted)  
+- 📄 IEEE Research Publication (2026 – Accepted)
+- 📊 Microsoft Certified (2025 Asia Oddysey Ai challange - Level 1 & 2)
+- 🏅 Merit Award Winner – Cisco Technopreneur Challenge  
+- 🏅 Merit Award Winner –  Cisco Netcom Challenge  
+- 📄  Cisco Network Academy certified - CCNAv7: Introduction to Networks
+- 📄  Postman - CCNAv7: Student Expert
 - 🎤 Organizing Committee Member – 42nd National IT Conference  
-- 👩‍💼 Leadership Role – CSSL GenZ Chapter (KDU)  
-- 🏅 Merit Award – Cisco Technopreneur Challenge  
-- 📊 Kaggle Data Science Challenge Participant  
+- 👩‍💼 Assistant Social media team lead – CSSL GenZ Chapter (KDU) (2025-2026) 
+
 
 ---
 
