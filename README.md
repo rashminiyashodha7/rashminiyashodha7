@@ -1,62 +1,102 @@
-## Hi there, I'm [Rashmini Yashodha] 👋
+## Hi there, I'm Rashmini Yashodha 👋
 
 <div align="center">
-  <!--  You can customize the typing text in the "lines=" section of the URL below -->
-  <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Quality Assuarance+%7C+Business+Analysis;Turning+Data+into+Actionable+Insights;[+Specialty+Here];[Your+Experience+or+Tagline]" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=QA+Enthusiast+%7C+Business+Analyst;Data+Analytics+%7C+AI+Solutions;Turning+Business+Needs+into+Tech+Solutions;Final+Year+IS+Undergraduate" alt="Typing SVG" />
 </div>
 
-<!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile-url"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://youtube.com/your-channel-url"><img src="https://img.shields.io/badge/YouTube-My_Channel-red?style=for-the-badge&logo=youtube"></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/rashmini-yashodha-b19a61270/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="mailto:rashminiyashoda5@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail">
+  </a>
 </p>
 
+---
+
 ## 🚀 About Me 
-I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
 
-My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
+I'm a final-year Information Systems undergraduate passionate about **Quality Assurance, Business Analysis, and Data Analytics**.
 
-When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating content, hiking, mentoring others, etc.]. I love the "aha!" moment when data reveals something new and useful.
+I enjoy analyzing business problems, designing structured solutions, and ensuring software quality through testing and automation. My experience spans across healthcare, retail, e-commerce, and service systems.
 
-<!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
-      
+My focus is on:
+- Improving system quality through QA practices  
+- Translating business requirements into technical solutions  
+- Delivering data-driven insights for better decision-making  
+
+I’m also currently pursuing the **ISTQB Foundation Level certification** to strengthen my expertise in software testing.
+
+Beyond academics, I actively contribute to tech communities like **CSSL GenZ Chapter** and **IEEE**, where I’ve taken leadership and organizing roles.
+
+---
+
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
+- **AI-Enabled Spoken Tutor & Candidate Screening System** – AI-based solution for personalized learning and HR screening  
+- **QA Automation Framework** – Selenium-based framework for improving regression testing efficiency  
+- **Research Work** – IEEE publication focused on AI/NLP-based solutions  
+
+---
 
 ## 🌱 Currently Learning 
 
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+- ISTQB Foundation Level (Software Testing Standards)  
+- Advanced QA Automation & CI/CD Practices  
+- Agentic AI & NLP Applications  
+
+---
 
 ## 🛠️ Technical Skillset
 
-<!-- This section uses Shields.io badges. You can customize them or create your own!-->
-
-#### Data Analysis & Visualization
+#### 💻 Programming & Development
 <p>
-  <!-- 💡 Go to Shields.io to create your own badges -->
-  <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
-  <img src="https://img.shields.io/badge/Power%20BI-Expert-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
-  <img src="https://img.shields.io/badge/Excel-Expert-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
-  <img src="https://img.shields.io/badge/Tableau-Intermediate-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau Skill Badge">
+  <img src="https://img.shields.io/badge/Java-Intermediate-orange?style=flat&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-Intermediate-F7DF1E?style=flat&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/C%23-Beginner-239120?style=flat&logo=c-sharp&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-Intermediate-4479A1?style=flat&logo=mysql&logoColor=white">
 </p>
 
-#### Programming & Automation
+#### 🧪 Quality Assurance & Testing
 <p>
-  <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
-  <img src="https://img.shields.io/badge/R-Beginner-276DC3?style=flat&logo=r&logoColor=white" alt="R Skill Badge">
+  <img src="https://img.shields.io/badge/Selenium-Automation-43B02A?style=flat&logo=selenium&logoColor=white">
+  <img src="https://img.shields.io/badge/TestNG-Framework-red?style=flat">
+  <img src="https://img.shields.io/badge/API%20Testing-Postman-FF6C37?style=flat&logo=postman&logoColor=white">
+  <img src="https://img.shields.io/badge/Manual%20Testing-Experienced-blue?style=flat">
+  <img src="https://img.shields.io/badge/Regression%20Testing-Experienced-purple?style=flat">
 </p>
 
-#### Business Intelligence & Analytics
+#### 📊 Data Analytics & Visualization
 <p>
-  <img src="https://img.shields.io/badge/A%2FB%20Testing-Experienced-FF6B6B?style=flat" alt="A/B Testing Skill Badge">
-  <img src="https://img.shields.io/badge/Statistical%20Analysis-Experienced-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
-  <img src="https://img.shields.io/badge/Predictive%20Modeling-Intermediate-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
-  <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
+  <img src="https://img.shields.io/badge/Power%20BI-Intermediate-F2C811?style=flat&logo=powerbi&logoColor=black">
+  <img src="https://img.shields.io/badge/Data%20Analysis-Python-3776AB?style=flat&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/EDA-Experienced-4ECDC4?style=flat">
 </p>
+
+#### 📈 Business & Systems Analysis
+<p>
+  <img src="https://img.shields.io/badge/Requirement%20Analysis-Experienced-ff69b4?style=flat">
+  <img src="https://img.shields.io/badge/Workflow%20Optimization-Experienced-blue?style=flat">
+  <img src="https://img.shields.io/badge/User%20Stories-Experienced-orange?style=flat">
+  <img src="https://img.shields.io/badge/Stakeholder%20Analysis-Experienced-green?style=flat">
+</p>
+
+---
+
+## 🏆 Achievements & Highlights
+
+- 📄 IEEE Research Publication (2026 – Accepted)  
+- 🎤 Organizing Committee Member – 42nd National IT Conference  
+- 👩‍💼 Leadership Role – CSSL GenZ Chapter (KDU)  
+- 🏅 Merit Award – Cisco Technopreneur Challenge  
+- 📊 Kaggle Data Science Challenge Participant  
+
+---
+
+## 📫 Let's Connect
+
+- 🔗 LinkedIn: https://www.linkedin.com/in/rashmini-yashodha-b19a61270/  
+- 💻 GitHub: https://github.com/rashminiyashodha7  
+- 📧 Email: rashminiyashoda5@gmail.com  
