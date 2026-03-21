@@ -26,7 +26,6 @@ My focus is on:
 - Translating business requirements into technical solutions  
 - Delivering data-driven insights for better decision-making  
 
-I’m also currently pursuing the **ISTQB Foundation Level certification** to strengthen my expertise in software testing.
 
 Beyond academics, I actively contribute to tech communities like **CSSL GenZ Chapter** and **IEEE**, where I’ve taken leadership and organizing roles.
 
